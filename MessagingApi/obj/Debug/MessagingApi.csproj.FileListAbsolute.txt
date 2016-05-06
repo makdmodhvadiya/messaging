@@ -1,0 +1,51 @@
+C:\Mak\Chat\MessagingApi\bin\MessagingApi.dll.config
+C:\Mak\Chat\MessagingApi\bin\MessagingApi.dll
+C:\Mak\Chat\MessagingApi\bin\MessagingApi.pdb
+C:\Mak\Chat\MessagingApi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.Security.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Mak\Chat\MessagingApi\bin\Newtonsoft.Json.dll
+C:\Mak\Chat\MessagingApi\bin\Owin.dll
+C:\Mak\Chat\MessagingApi\bin\System.Net.Http.Formatting.dll
+C:\Mak\Chat\MessagingApi\bin\System.Web.Http.dll
+C:\Mak\Chat\MessagingApi\bin\System.Web.Http.WebHost.dll
+C:\Mak\Chat\MessagingApi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Mak\Chat\MessagingApi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.xml
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Mak\Chat\MessagingApi\bin\Microsoft.Owin.Security.xml
+C:\Mak\Chat\MessagingApi\bin\Newtonsoft.Json.xml
+C:\Mak\Chat\MessagingApi\bin\System.Net.Http.Formatting.xml
+C:\Mak\Chat\MessagingApi\bin\System.Web.Http.xml
+C:\Mak\Chat\MessagingApi\bin\System.Web.Http.WebHost.xml
+C:\Mak\Chat\MessagingApi\obj\Debug\MessagingApi.dll
+C:\Mak\Chat\MessagingApi\obj\Debug\MessagingApi.pdb
+C:\Mak\Chat - Copy\MessagingApi\bin\MessagingApi.dll.config
+C:\Mak\Chat - Copy\MessagingApi\bin\MessagingApi.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\MessagingApi.pdb
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.Security.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Newtonsoft.Json.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Owin.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Net.Http.Formatting.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Web.Http.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Web.Http.WebHost.dll
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\Microsoft.Owin.Security.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\Newtonsoft.Json.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Net.Http.Formatting.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Web.Http.xml
+C:\Mak\Chat - Copy\MessagingApi\bin\System.Web.Http.WebHost.xml
+C:\Mak\Chat - Copy\MessagingApi\obj\Debug\MessagingApi.csprojResolveAssemblyReference.cache
+C:\Mak\Chat - Copy\MessagingApi\obj\Debug\MessagingApi.dll
+C:\Mak\Chat - Copy\MessagingApi\obj\Debug\MessagingApi.pdb
